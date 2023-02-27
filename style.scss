@@ -1,0 +1,13 @@
+body {
+	max-width: 1200px;
+	margin: 0 20px;
+	width: 100%;
+
+	form.address {
+		width: 100%;
+
+		#postcode, #address, #detailAddress, #extraAddress {
+			max-width: 500px;
+		}
+	}
+}
